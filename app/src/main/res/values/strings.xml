@@ -1,0 +1,60 @@
+
+<resources>
+<string name="app_name">pagedRoom</string>
+<string name="properties">Properties</string>
+<string name="download_db">Download DB</string>
+<string name="logout">Logout</string>
+<string name="upload_log">Upload Log</string>
+<string name="update_img">Upload Image</string>
+<string name="get_Agents">Get Agent Details</string>
+<string name="Set_auto_sync">Set Auto Sync</string>
+<string name="title_activity_admin">AdminActivity</string>
+<string name="title_agent_activity">AgentActivity</string>
+<string name="reports">Reports</string>
+<string name="synchronise">Synchronise</string>
+<string name="deposit">Deposit</string>
+<string name="reprint">Reprint</string>
+<string name="hint_acNo_acName">Enter Account No/Account Name</string>
+<string name="hint_acNo">Account No</string>
+<string name="fromDate">From Date</string>
+<string name="toDate">To Date</string>
+<string name="hint_amount">Enter Amount</string>
+<string name="pendingActs">Pending Actions</string>
+
+<string name="action_settings1">Settings</string>
+<string name="bluetooth_off">Bluetooth is Off</string>
+<string name="bluetooth_on">Bluetooth is On</string>
+<string name="connect">Connect</string>
+<string name="disconnect">Disconnect</string>
+<string name="enable_bluetooth">Enable Bluetooth</string>
+<string name="disable_bluetooth">Disable Bluetooth</string>
+<string name="scan_devices">Scan Devices</string>
+<string name="stop_scan">Scan Devices</string>
+<string name="list_paired_devices">Paired Devices</string>
+<string name="list_devices">List of Devices</string>
+<string name="pair">Pair</string>
+<string name="printer">Printer</string>
+
+
+<string name="view_properties">View Properties</string>
+<string name="key">Key</string>
+<string name="value">Value</string>
+
+<string name="acNo"><u>A/C No.</u></string>
+<string name="txnId"><u>Txn_id.</u></string>
+<string name="dateTime"><u>Date Time</u></string>
+<string name="beforeTxn"><u>Before Txn</u></string>
+<string name="afterTxn"><u>After Txn</u></string>
+<string name="currentTxn"><u>Current Txn</u></string>
+<string name="sync"><u>Sync</u></string>
+
+<string name="syncAll">SyncAll</string>
+<string name="showMore">Show More</string>
+<string name="showLess">Show Less</string>
+
+<string name="dailyReport">Daily Report</string>
+<string name="monthlyReport">Monthly Report</string>
+<string name="acSummaryReport">Account Summary</string>
+
+
+</resources>
